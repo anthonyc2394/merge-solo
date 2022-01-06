@@ -6,4 +6,4 @@ My
 
 New
 
-A
+Album
